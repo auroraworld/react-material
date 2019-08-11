@@ -6,7 +6,7 @@ Hotel Insighter
 
 ## Quick start
 
-- [Download from Github](https://github.com/AliKemalSaglam/react-material-admin)
+- [Download from Github](https://github.com/auroraworld/react-material)
 
 - Install dependencies: `npm install` or `yarn`
 
@@ -14,13 +14,6 @@ Hotel Insighter
 
 - Views are on: `localhost:3000`
 
-## Reporting Issues:
-
-- [Github Issues Page](https://github.com/AliKemalSaglam/react-material-admin/issues)
-
-## Licenses
-
-- Licensed under MIT (https://github.com/devias-io/react-material-dashboard/blob/master/LICENSE.md)
 
 ## Contact Us
 
